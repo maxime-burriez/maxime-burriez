@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-<a href="https://app.daily.dev/maxime_burriez"><img src="https://api.daily.dev/devcards/e6f56e3c2718472c8f1d10258e3eddfd.png?r=grd" width="400" alt="Maxime Burriez's Dev Card"/></a>
-
 <!--
 **maxime-burriez/maxime-burriez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
